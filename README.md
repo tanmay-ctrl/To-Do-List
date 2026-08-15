@@ -9,7 +9,6 @@ A sleek, modern, and fully responsive To-Do List application built with vanilla 
 *   **Glassmorphism UI:** A visually striking, translucent frosted glass design with dynamic gradient backgrounds.
 *   **Data Persistence:** Utilizes browser `localStorage` to save your tasks so they remain even after refreshing or closing the page.
 *   **Task Management:** Add new tasks, mark them as "completed" with a strikethrough effect, or delete them entirely.
-*   **Keyboard Accessibility:** Full support for the `Enter` key to quickly add tasks without needing a mouse.
 *   **Duplicate Prevention:** Alerts the user if they attempt to add a task that already exists on the list.
 *   **Security Built-in:** Uses safe DOM manipulation methods (`textContent` over `innerHTML`) to prevent Cross-Site Scripting (XSS) vulnerabilities.
 *   **Empty State Handling:** Displays a friendly, clean message when all tasks are cleared.
